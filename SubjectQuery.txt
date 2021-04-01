@@ -1,0 +1,4 @@
+insert into Subjects values ('001','Maths');
+insert into Subjects values ('002','Physics');
+
+select * from Subjects;
