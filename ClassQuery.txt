@@ -1,0 +1,4 @@
+insert into Classes values ('10-A','Maths');
+insert into Classes values ('10-B','PCB');
+insert into Classes values ('9-A','Commerce');
+select * from Classes;
