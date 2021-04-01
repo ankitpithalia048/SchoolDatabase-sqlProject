@@ -1,2 +1,0 @@
-insert into Student values(100,'Ankit','Pithalias','10-A');
-select * from Student;
